@@ -1,0 +1,5 @@
+{
+  "name": "AuraBot - AI Trading Agent Simulator",
+  "description": "A sophisticated web application for creating and managing AI-powered crypto trading agents. Users can connect their wallet, create agents with initial balances, and assign them predefined or AI-generated trading strategies to simulate profit and loss in real-time.",
+  "requestFramePermissions": []
+}
